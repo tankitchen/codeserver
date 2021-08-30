@@ -1,2 +1,2 @@
-# codeserver
-Code server to install on VPS, such as digitalocean, etc.
+# Codeserver
+Code server to install on VPS, such as digitalocean.
